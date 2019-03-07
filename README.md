@@ -5,4 +5,5 @@
 # Youtube
 - 01 Led blink https://www.youtube.com/watch?v=6hoGGrh3Gaw
 - 02 Push button with debug variable https://www.youtube.com/watch?v=js4q3tXSXos
+- 03  Read Write Serial https://www.youtube.com/watch?v=gH8FfXbNSfg
 
